@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I do Rust, Typescript, & Go, but I also do a fair amount of game dev! Always down to work on anything fun!
+I do Rust, Typescript, Go, and a fair amount of game dev! Always down to work on anything fun!
 
 <!--
 **jiyuu-jin/jiyuu-jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
